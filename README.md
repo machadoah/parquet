@@ -4,6 +4,10 @@
   <img src="images/img_7.png" alt="Descrição da imagem" width="200px">
 </div>
 
+#### Membros
+- Antonio Henrique Machado
+- Isadora Mota de Souza
+- Ingridy Guerra
 
 Parquet é um formato de armazenamento colunar usado para armazenar grandes volumes de dados de forma eficiente.
 
