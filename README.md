@@ -174,6 +174,7 @@ Se estivesse Orientado a linha, precisariamos ler tudo para ter a média. Mas, n
 Vamos agora ler, converter e gravar arquivos parquet?
 
 Dados: [pasta data](https://drive.google.com/drive/folders/1gb7DQk0Bl8u3h2N_8W_ypewnWxNyk-Br?usp=sharing)
+Video: [Video - Tutorial](https://www.canva.com/design/DAGOVTT2ZvA/MaBKEG5Ldxkpj7x3ab0_bQ/edit?classId=a332674b-b06a-4ae4-bef1-9a631babebc9&assignmentId=80145c5d-3114-4862-bc5e-71df47bb7a9c&submissionId=0aa9b499-b945-1882-1c1f-4398dc880be9)
 
 ## Conclusões
 
