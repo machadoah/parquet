@@ -181,3 +181,4 @@ Dados: [pasta data](https://drive.google.com/drive/folders/1gb7DQk0Bl8u3h2N_8W_y
 - [Spark + Parquet In Depth: Spark Summit East Talk by Emily Curtin and Robbie Strickland - SlideShare](https://pt.slideshare.net/slideshow/spark-parquet-in-depth-spark-summit-east-talk-by-emily-curtin-and-robbie-strickland/72203147)
 - [Predicate Pushdown e Projeção - ResearchGate](https://www.researchgate.net/figure/Use-predicate-pushdown-and-projection-pushdown-to-skip-reading-unnecessary-row-groups-or_fig2_340332233)
 - [Documentação oficial do Parquet](https://parquet.apache.org/)
+- [Tutorial Apache Parquet](https://www.youtube.com/watch?v=BztuEQ9ojtc&t=1499s)
