@@ -4,6 +4,10 @@
   <img src="images/img_7.png" alt="Descrição da imagem" width="200px">
 </div>
 
+#### Membros
+- Antonio Henrique Machado
+- Isadora Mota de Souza
+- Ingridy Guerra
 
 Parquet é um formato de armazenamento colunar usado para armazenar grandes volumes de dados de forma eficiente.
 
@@ -169,9 +173,16 @@ Se estivesse Orientado a linha, precisariamos ler tudo para ter a média. Mas, n
 
 Vamos agora ler, converter e gravar arquivos parquet?
 
-Acesse o Notebook: [Google Colab - Notebook](https://colab.research.google.com/drive/1JnFKOEInoZ3AF7pUxofJ7ORljzTltVab#scrollTo=rH5p3dVlmmMp)
-
 Dados: [pasta data](https://drive.google.com/drive/folders/1gb7DQk0Bl8u3h2N_8W_ypewnWxNyk-Br?usp=sharing)
+
+Video: [Video - Tutorial](https://www.canva.com/design/DAGOVTT2ZvA/MaBKEG5Ldxkpj7x3ab0_bQ/edit?classId=a332674b-b06a-4ae4-bef1-9a631babebc9&assignmentId=80145c5d-3114-4862-bc5e-71df47bb7a9c&submissionId=0aa9b499-b945-1882-1c1f-4398dc880be9)
+
+## Conclusões
+
+Em geral, o Parquet é uma escolha excelente para armazenamento e processamento de grandes volumes de dados, oferecendo eficiência em compressão e desempenho. A facilidade de uso depende da familiaridade com o ecossistema de ferramentas de big data e com as práticas recomendadas para configuração. Para a maioria dos casos de uso, o Parquet prova ser uma solução robusta e eficaz, embora usuários iniciantes possam encontrar algum desafio inicial na sua adoção.
+
+O Apache Parquet possui uma comunidade ativa e uma documentação abrangente, ambos fundamentais para seu sucesso e adoção. A comunidade oferece suporte e recursos adicionais, enquanto a documentação oficial e das ferramentas fornece uma base sólida para entender e utilizar o Parquet de forma eficaz. Para desenvolvedores e analistas de dados, esses recursos são valiosos para resolver problemas, aprender novas técnicas e aproveitar ao máximo o potencial do formato Parquet.
+
 ## Referências
 
 - [Formato Parquet - YouTube](https://www.youtube.com/watch?v=juMneHB5d2s)
